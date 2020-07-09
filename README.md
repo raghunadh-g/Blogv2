@@ -8,7 +8,7 @@ with backend support
 
 
 1.Make sure node js is installed on your computer(optional:install nodemon also).</br>
-2.Make sure the directory into which you clone this  project has express,body-parser,lodash and ejs installed. </br>
+2.Make sure the directory into which you clone this  project has express,body-parser,lodash and ejs installed.<b>Simply type npm i in your gitbash being in your project directory this automatically checks and installs required  packages</b> </br>
 3.Install mangodb(and create a cluster on MongoDB Atlas) and mongoose(check dependencies in package.json and install all those packages).
 4.While initializing (i.e., npm init) set start point as app.js</br>
 6.Create blogs by clicking "+" button beside home.
